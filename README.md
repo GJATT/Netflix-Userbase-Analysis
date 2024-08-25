@@ -1,3 +1,4 @@
 ## Metric and Dimensions
-![retention_churn_pie_chart](https://github.com/user-attachments/assets/c142a696-5065-441e-a0c0-aa3e40c58056)
+
+![retention_churn_pie_chart-2](https://github.com/user-attachments/assets/f2e66a90-276d-4f72-8be3-a609f30b617e)
 
