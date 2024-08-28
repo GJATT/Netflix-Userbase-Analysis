@@ -10,3 +10,5 @@
   - Churn Rate
 ## Summary of Insights
 
+### Monthly
+  - 
