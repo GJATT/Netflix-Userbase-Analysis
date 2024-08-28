@@ -3,7 +3,7 @@
 ## Metric and Dimensions
 
 - Subscription Behaviour: Analyze behaviour of subscription trends 2021-2023
-  - Monthly Joined
+  - Monthly
   - Country
   - Subscription Type
   - Duration
