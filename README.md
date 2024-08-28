@@ -7,7 +7,7 @@
   - Country
   - Subscription Type
   - Duration
-  - Churn Rate
+  - Churn/Retention Rate
 ## Summary of Insights
 
 ### Monthly
