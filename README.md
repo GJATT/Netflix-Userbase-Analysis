@@ -11,4 +11,6 @@
 ## Summary of Insights
 
 ### Monthly
-  - 
+  - Analyzing 'New Subscriptions By Month Joined', all 10 countries observe a sharp increase in subscription count from May - July and September - October, with the largest amount of subscribers joining in October. There's a massive drop off in November which lasts through till May.
+
+### Country
