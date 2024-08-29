@@ -22,3 +22,8 @@
 
 ### Duration
 
+- Interestingly enough, the average duration of subscription was consistent from country to country.
+
+### Churn/Retention Rate
+
+- 
