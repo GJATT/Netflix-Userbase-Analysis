@@ -17,13 +17,13 @@
   - The USA and Spain have the most total subscribers while France has the least. North America alone accounts for 30.7% of total subscriptions.
 
 ### Subscription Type
-- Subscription type varies wildly by country. Basic is unsurprisingly the most popular type, followed by Standard and lastly Premium.
+  - Subscription type varies wildly by country. Basic is unsurprisingly the most popular type, followed by Standard and lastly Premium.
 
 ### Duration
-- Interestingly enough, the average duration of subscription was consistent from country to country.
+  - Interestingly enough, the average duration of subscription was consistent from country to country.
 
 ### Churn/Retention Rate
 
-- ![retention_churn_pie_chart-3](https://github.com/user-attachments/assets/d9740bdb-4a17-4369-90f9-aaa8d9a32c58)  ![retention_churn_pie_chart1](https://github.com/user-attachments/assets/44cb72b2-8f5d-4d74-87b5-4861972063e1)
+  ![retention_churn_pie_chart-3](https://github.com/user-attachments/assets/d9740bdb-4a17-4369-90f9-aaa8d9a32c58)  ![retention_churn_pie_chart1](https://github.com/user-attachments/assets/44cb72b2-8f5d-4d74-87b5-4861972063e1)
 
 
