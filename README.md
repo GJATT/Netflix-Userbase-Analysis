@@ -11,7 +11,7 @@
 ## Summary of Insights
 
 ### Monthly
-  - Analyzing 'New Subscriptions By Month Joined', all 10 countries observe a sharp increase in subscription count from May - July and September - October, with the largest amount of subscribers joining in October. There's a massive drop off in November which lasts through till May.
+  - Analyzing 'New Subscriptions By Month Joined', all 10 countries observe a sharp increase in subscription count from May - July and September - October, with the largest amount of subscribers joining in October. There's a massive drop off in November which lasts through till the end of April.
 
 ### Country
   - The USA and Spain have the most total subscribers while France has the least. North America alone accounts for 30.7% of total subscriptions.
