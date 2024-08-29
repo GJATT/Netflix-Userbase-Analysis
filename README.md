@@ -25,5 +25,6 @@
 ### Churn/Retention Rate
 
   ![retention_churn_pie_chart-3](https://github.com/user-attachments/assets/d9740bdb-4a17-4369-90f9-aaa8d9a32c58)  ![retention_churn_pie_chart1](https://github.com/user-attachments/assets/44cb72b2-8f5d-4d74-87b5-4861972063e1)
+  - The churn rate for the first half of 2023 is an unusually high 32%. 
 
 
