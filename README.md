@@ -1,5 +1,7 @@
 <img width="1665" alt="Screenshot 2024-08-24 at 5 07 59 PM" src="https://github.com/user-attachments/assets/7907dc17-5eae-4c1a-8722-a5891bba055d">
-  ![retention_churn_pie_chart-3] ![retention_churn_pie_chart1]
+![retention_churn_pie_chart-3](https://github.com/user-attachments/assets/afa1865c-210d-4e57-8845-a2d8b5095060)![retention_churn_pie_chart1](https://github.com/user-attachments/assets/3ca7a26b-0384-4261-ac0c-cd469d334101)
+
+
 
 ## Metric and Dimensions
 
