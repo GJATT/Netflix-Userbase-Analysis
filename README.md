@@ -1,6 +1,7 @@
 <img width="1665" alt="Screenshot 2024-08-24 at 5 07 59 PM" src="https://github.com/user-attachments/assets/7907dc17-5eae-4c1a-8722-a5891bba055d">
 
-![retention_churn_pie_chart1](https://github.com/user-attachments/assets/cb5aaa71-d5b4-4a1d-bb9a-e3648ee40bc7)
+![retention_churn_pie_chart1](https://github.com/user-attachments/assets/cb5aaa71-d5b4-4a1d-bb9a-e3648ee40bc7)    ![retention_churn_pie_chart1](https://github.com/user-attachments/assets/0cfde2d5-69d5-4286-93ab-3d4e12ce9b61)
+
 
 
 
